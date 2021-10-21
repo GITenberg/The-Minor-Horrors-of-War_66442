@@ -1,5 +1,8 @@
 _repo: The-Minor-Horrors-of-War_66442
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66442-h/images/cover.jpg
 creator:
   author:
     agent_name: Shipley, A. E. (Arthur Everett), Sir
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44635
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Shipley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66442#The-Minor-Horrors-of-War
 gutenberg_issued: '2021-10-01'
 identifiers:
   gutenberg: '66442'
